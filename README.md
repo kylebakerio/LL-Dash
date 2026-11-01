@@ -9,7 +9,7 @@
 <img width="1563" height="1462" alt="image" src="https://github.com/user-attachments/assets/dcb6b814-16da-41a3-a217-37d1659309ca" />
 
 
-LL-Dash is a self-hosted control room for running llama.cpp models on your own
+LL-Dash is a self-hosted control room for running llama.cpp (and strata) models on your own
 GPUs. It launches `llama-server` (or the optional Strata engine) on any mix of
 local cards and remote RPC workers. It records the speed of every request,
 whichever client sent it, and shows live hardware telemetry. It also runs speed
