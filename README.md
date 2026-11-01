@@ -1,5 +1,14 @@
 # LL-Dash
 
+<img width="2553" height="1169" alt="image" src="https://github.com/user-attachments/assets/7ef6787b-b371-4c6d-b8c2-39c54de290ef" />
+<img width="541" height="1469" alt="image" src="https://github.com/user-attachments/assets/d0f0616f-6e4e-4132-afba-b5fd9332c85f" />
+<img width="377" height="1369" alt="image" src="https://github.com/user-attachments/assets/450ed5f9-eefd-4df5-b2e5-dc5bb15fc1c0" />
+<img width="1222" height="1480" alt="image" src="https://github.com/user-attachments/assets/2dd0cec8-2d23-4131-ae5f-b5e30e49990e" />
+<img width="1563" height="1462" alt="image" src="https://github.com/user-attachments/assets/a7b539c3-e5c9-4f7a-b0a6-30b4b7375561" />
+<img width="1563" height="1462" alt="image" src="https://github.com/user-attachments/assets/24ded5f1-eee5-4436-b992-a3b1590f72d5" />
+<img width="1563" height="1462" alt="image" src="https://github.com/user-attachments/assets/dcb6b814-16da-41a3-a217-37d1659309ca" />
+
+
 LL-Dash is a self-hosted control room for running llama.cpp models on your own
 GPUs. It launches `llama-server` (or the optional Strata engine) on any mix of
 local cards and remote RPC workers. It records the speed of every request,
